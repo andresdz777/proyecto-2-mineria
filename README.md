@@ -405,7 +405,7 @@ prediccion
 
 ```
 
-Para las redes neuronales se pueden consultar en este link de google colab o mediante el notebook que se encuentra en el repositorio 
+Para las redes neuronales se pueden consultar en este link https://drive.google.com/file/d/1bu4Wh3Jk7NO7TOWQlJGPYZOW01GdVvr6/view?usp=sharing de google colab o mediante el notebook que se encuentra en el repositorio 
 
 ```
 import numpy as np
